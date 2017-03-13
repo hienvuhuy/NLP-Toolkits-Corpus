@@ -11,6 +11,6 @@ This repository contains some toolkits and corpus for NLP researcher. Feel free 
     +) English - Vietnamese
 	
     +) This corpus is created for the paper "Hien Vu Huy, Phuong-Thai Nguyen, Tung-Lam Nguyen and M.L Nguyen. Bootstrapping Phrase-based Statistical Machine Translation via WSD Integration. IJCNLP 2013". Please cite the paper if you are intend to use the UET corpus
-    
-	+) Download at 
-   
+    
+	+) Download at https://1drv.ms/f/s!AgJjFPl2FLvpjQCF7Mw9glzpwfqv (one drive link). Please contact me at hienvuhuy [at] gmail if you can not access this file.
+   
